@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value=" NeedIt Properties">1f9cf03c376613001565036973990e44</category>
+        <order>200</order>
+        <property display_value="x_58872_needit. autoCloseOverdue" name="x_58872_needit. autoCloseOverdue">2672c5fc376613001565036973990e09</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-04 17:52:37</sys_created_on>
+        <sys_id>dc934dfc376613001565036973990edc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_58872_needit. autoCloseOverdue. NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_dc934dfc376613001565036973990edc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-04 18:02:28</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
